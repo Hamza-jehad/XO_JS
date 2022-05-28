@@ -1,0 +1,27 @@
+.game{
+    width: 255px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title{
+    background-color: #f25;
+    padding: 10px 0;
+    font-weight: bold;
+}
+span{
+    color: #eeff00;
+}
+.squre{
+    width: 80px;
+    height: 80px;
+    background-color: #f25;
+    float: left;
+    margin: 2px;
+    font-size: 50px;
+}
+.squre:hover{
+    cursor: pointer;
+    background-color: #000;
+}
